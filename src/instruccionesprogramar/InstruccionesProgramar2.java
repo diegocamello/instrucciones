@@ -14,8 +14,6 @@ public class InstruccionesProgramar2 {
     public InstruccionesProgramar2() {
         System.out.println("Instrucciones 2");
         System.out.println("Instrucciones 12345");
-        System.out.println("Instrucciones cortas");
-        System.out.println("Instrucciones cortas 2");
     }
     
 }
