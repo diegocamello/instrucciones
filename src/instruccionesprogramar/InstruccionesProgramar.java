@@ -18,6 +18,7 @@ public class InstruccionesProgramar {
         // TODO code application logic here
         System.out.println("1 debe tener una idea");
         System.out.println("2 debe escribir esa idea");
+        System.out.println("2 debe debatir esa idea");
     }
     
 }
